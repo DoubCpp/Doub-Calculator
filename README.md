@@ -28,4 +28,5 @@ python main.py
 - Use `/help` in Discord to see the list of available commands.
 
 ---
+[invite](https://discord.com/oauth2/authorize?client_id=1388520114613125211)
 Developed by Doub (doub.cpp)
