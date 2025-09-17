@@ -17,7 +17,7 @@ A Discord bot to perform calculations and provide stat information and more for 
    pip install discord.py>=2.3.0
    pip install aiohttp>=3.8.0
    ```
-3. Configure the `config.py` file with your Discord bot token and and admin IDs.
+3. Configure the `settings.pyconfig.py` file with your Discord bot token and and admin IDs.
 
 ## Running
 ```bash
